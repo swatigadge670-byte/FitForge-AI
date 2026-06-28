@@ -1,0 +1,6 @@
+{
+  "name": "FitForge AI",
+  "description": "Premium AI-powered fitness companion for workout tracking, diet planning, and interactive coaching.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
